@@ -18,15 +18,11 @@ People REST API CRUD example made with Java Spring MVC, Angular and PrimeNG
 7) Open at Eclipse IDE the project: <pre>C:\your_eclipse_workspace\PeopleSpringMvc\server\PeopleSpringMvc</pre>
 
 8) Right click at the project and select "Run as", "Run on server". Then, execute on a Tomcat 7 server. If evertything has turnout well so far, you'll see the following: 
-![1](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/1.png)
+<br/>![1](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/1.png)
 
 
 9) Install Node.js if you don't have it yet
 
 10) In cmd, put yourself at the directory: <pre>C:\your_eclipse_workspace\PeopleSpringMvc\client\angular</pre> and then execute the following command to start Angular: <br/><br/><pre>npm start</pre> If evertything has turnout well so far, you'll see the following message in your command line console: "webpack: Compiled successfully"
 
-11) Open in a web navigator the following url: <br/><br/><pre>localhost:4200</pre>Then, you'll see the following: ![2](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/2.png)
-
-![3](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/3.png)
-
-![4](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/4.png)
+11) Open in a web navigator the following url: <br/><br/><pre>localhost:4200</pre>Then, you'll see the following: <br/>![2](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/2.png) <br/>![3](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/3.png) <br/>![4](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/4.png)
