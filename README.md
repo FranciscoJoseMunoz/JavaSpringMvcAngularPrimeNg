@@ -18,7 +18,7 @@ People REST API CRUD example made with Java Spring MVC, Angular and PrimeNG
 7) Open at Eclipse IDE the project: <pre>C:\your_eclipse_workspace\PeopleSpringMvc\server\PeopleSpringMvc</pre>
 
 8) Right click at the project and select "Run as", "Run on server". Then, execute on a Tomcat 7 server. If evertything has turnout well so far, you'll see the following: 
-!(https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/master/screens/1.png)
+(https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/master/screens/1.png)
 
 
 
