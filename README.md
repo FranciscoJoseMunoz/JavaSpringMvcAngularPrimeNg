@@ -1,6 +1,13 @@
 # Java Spring Mvc Angular PrimeNG REST API CRUD example
 People REST API CRUD example made with Java Spring MVC, Angular and PrimeNG
 
+# Technologies used:
+
+Server: Tomcat 7
+Database: MySQL
+Back-End: Maven, Java Spring MVC, Hibernate
+Front-End: Angular 4, PrimeNG 4.3
+
 # Instructions to execute:
 
 1) Create MySQL user called "peoplespringmvc" and a database also called "peoplespringmvc" with all privileges for the user created.
