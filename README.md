@@ -18,7 +18,7 @@ Front-End: Angular 4, PrimeNG 4.3
 
 4) Install Maven and define environment variables if you don´t have it done yet
 
-5) Unzip de project at your Eclipse workspace
+5) Unzip de project and put de folder called "PeopleSpringMvc" at your Eclipse workspace
 
 6) Start your localhost MySQL if you don't have it started yet
 
@@ -30,6 +30,6 @@ Front-End: Angular 4, PrimeNG 4.3
 
 9) Install Node.js if you don't have it yet
 
-10) In cmd, put yourself at the directory: <pre>C:\your_eclipse_workspace\PeopleSpringMvc\client\angular</pre> and then execute the following command to start Angular: <br/><br/><pre>npm start</pre> If evertything has turnout well so far, you'll see the following message in your command line console: "webpack: Compiled successfully"
+10) In cmd, put yourself at the directory: <pre>C:\your_eclipse_workspace\PeopleSpringMvc\client\angular</pre> and then execute the following command to install Node modules: <br/><br/><pre>npm i</pre> Then, start Angular with the command: <br/><br/><pre>npm start</pre> If evertything has turnout well so far, you'll see the following message in your command line console: "webpack: Compiled successfully"
 
 11) Open in a web navigator the following url: <br/><pre>localhost:4200</pre>Then, you'll see the following: <br/><br/>![2](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/2.png) <br/><br/>![3](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/3.png) <br/><br/>![4](https://github.com/FranciscoJoseMunoz/JavaSpringMvcAngularPrimeNg/blob/master/screens/4.png)
